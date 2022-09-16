@@ -1,11 +1,11 @@
 # Getting Started
 ---
 
-This document describes step-by-step commands to build, install, and insert a kernel written in Rust.
+This document provides step-by-step guidance to build, install, and insert a kernel module written in Rust.
 
 **Since the kernel (re-)installation can break your system easily, I recommand using a VM for safety and convenience.**
 
-_Note 1: All commands have been tested under a KVM/QEMU VM running Ubuntu server 18.04._
+_Note 1: All steps have been tested under a KVM/QEMU VM running Ubuntu server 18.04._
 
 _Note 2: If your environment is not ready for building Linux kernel, please check [this link](https://wiki.ubuntu.com/Kernel/BuildYourOwnKernel) and install related packages/dependencies._
 
